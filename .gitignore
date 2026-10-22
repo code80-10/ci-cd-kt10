@@ -1,0 +1,12 @@
+build/
+*.exe
+*.obj
+*.o
+*.log
+.idea/
+.vscode/
+.jenkins/
+*.key
+*.pem
+credentials.xml
+setup-ssh-admin.cmd
